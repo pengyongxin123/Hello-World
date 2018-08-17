@@ -1,0 +1,340 @@
+[
+  {
+    "buttons": [
+      {
+        "external": true,
+        "style": "danger",
+        "title": "Howdy",
+        "url": "https://howdy.tamu.edu/uPortal/normal/render.uP?u_redirectToDefault=true"
+      },
+      {
+        "external": true,
+        "style": "warning",
+        "title": "Myecampus",
+        "url": "https://tamu.blackboard.com/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_25_1"
+      },
+      {
+        "external": true,
+        "style": "info",
+        "title": "HRConnect",
+        "url": "https://sso.tamus.edu/logon.aspx?appid=120&ReturnUrl=%2fHRConnect2%2fEmployee%2fMain%2fIndex"
+      },
+      {
+        "external": true,
+        "style": "success",
+        "title": "Graduate Plan",
+        "url": "https://ogsdpss.tamu.edu/error.aspx?aspxerrorpath=/Account/Login.aspx"
+      },
+      {
+        "menu": [
+          {
+            "external": true,
+            "title": "UCI",
+            "url": "http://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/#graduatetext"
+          },
+          {
+            "external": true,
+            "title": "SeattlesU",
+            "url": "https://www.seattleu.edu/scieng/computer-science/certificates/cs-fundamentals/#d.en.109054"
+          },
+          {
+            "external": true,
+            "title": "USFCA",
+            "url": "https://gradapply.usfca.edu/apply/"
+          },
+          {
+            "external": true,
+            "title": "NorthEastern",
+            "url": "https://align.ccis.northeastern.edu/#_ga=2.33491517.2064836927.1522855645-873089684.1520280797"
+          },
+          {
+            "external": true,
+            "title": "UCSB",
+            "url": "http://www.graddiv.ucsb.edu/admissions/"
+          }
+        ],
+        "style": "light",
+        "title": "New Application"
+      }
+    ],
+    "title": "School"
+  },
+  {
+    "buttons": [
+      {
+        "external": true,
+        "style": "info",
+        "title": "Dropbox",
+        "url": "https://www.dropbox.com"
+      },
+      {
+        "external": true,
+        "style": "warning",
+        "title": "Google Drive",
+        "url": "https://drive.google.com"
+      },
+      {
+        "external": true,
+        "style": "primary",
+        "title": "OneDrive",
+        "url": "https://onedrive.live.com"
+      }
+    ],
+    "title": "Storage"
+  },
+  {
+    "buttons": [
+      {
+        "style": "danger",
+        "title": "Google ",
+        "url": "https://www.google.com/"
+      },
+      {
+        "external": true,
+        "style": "primary",
+        "title": "Web Store",
+        "url": "https://chrome.google.com/webstore"
+      },
+      {
+        "menu": [
+          {
+            "external": false,
+            "title": "Settings",
+            "url": "chrome://settings"
+          },
+          {
+            "title": "Extensions",
+            "url": "chrome://extensions"
+          },
+          {
+            "title": "Flags",
+            "url": "chrome://flags"
+          }
+        ],
+        "style": "light",
+        "title": "Settings"
+      },
+      {
+        "menu": [
+          {
+            "title": "Apps",
+            "url": "chrome://apps"
+          },
+          {
+            "title": "Bookmarks",
+            "url": "chrome://bookmarks"
+          },
+          {
+            "title": "Downloads",
+            "url": "chrome://downloads"
+          },
+          {
+            "title": "History",
+            "url": "chrome://history"
+          }
+        ],
+        "style": "default",
+        "title": "Content"
+      }
+    ],
+    "title": "Chrome"
+  },
+  {
+    "buttons": [
+      {
+        "external": true,
+        "style": "primary",
+        "title": "Facebook",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "menu": [
+          {
+            "external": true,
+            "title": "Twitter",
+            "url": "https://twitter.com"
+          },
+          {
+            "external": true,
+            "title": "TweetDeck",
+            "url": "https://tweetdeck.twitter.com"
+          }
+        ],
+        "style": "info",
+        "title": "Twitter"
+      },
+      {
+        "external": true,
+        "style": "danger",
+        "title": "Google+",
+        "url": "https://plus.google.com"
+      }
+    ],
+    "title": "Social"
+  },
+  {
+    "buttons": [
+      {
+        "external": true,
+        "style": "success",
+        "title": "Lifehacker",
+        "url": "http://lifehacker.com"
+      },
+      {
+        "external": true,
+        "style": "primary",
+        "title": "AddictiveTips",
+        "url": "http://www.addictivetips.com"
+      },
+      {
+        "external": true,
+        "style": "dark",
+        "title": "How-To Geek",
+        "url": "http://www.howtogeek.com"
+      }
+    ],
+    "title": "Tips"
+  },
+  {
+    "buttons": [
+      {
+        "external": true,
+        "style": "danger",
+        "title": "YouTube",
+        "url": "https://www.youtube.com/?gl=US"
+      },
+      {
+        "external": true,
+        "style": "info",
+        "title": "Bilibili",
+        "url": "http://www.bilibili.com"
+      },
+      {
+        "external": true,
+        "style": "warning",
+        "title": "多瑙网",
+        "url": "http://www.dnvod.tv"
+      }
+    ],
+    "title": "Video"
+  },
+  {
+    "buttons": [
+      {
+        "external": true,
+        "style": "info",
+        "title": "My Website",
+        "url": "https://pengyongxin123.github.io/"
+      },
+      {
+        "external": true,
+        "style": "danger",
+        "title": "Udemy",
+        "url": "https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-Branded-Search-World-EN-ENG_._ci__._sl_ENG_._vi__._sd_All_._la_EN_._&tabei=7&utm_term=_._ag_48933380294_._ad_255565596380_._de_c_._dm__._pl__._ti_kwd-310556426868_._li_9027906_._pd__._&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hE4aZrcoQIyrB5tcCsElWMKQvoma-PRxW2NCX1-wDjofxGvtPMQrSoaAh5oEALw_wcB"
+      },
+      {
+        "external": true,
+        "style": "primary",
+        "title": "Discord",
+        "url": "https://discordapp.com/activity"
+      },
+      {
+        "external": true,
+        "style": "dark",
+        "title": "LeetCode",
+        "url": "https://leetcode.com/explore/"
+      },
+      {
+        "external": true,
+        "style": "danger",
+        "title": "GitHub",
+        "url": "https://github.com/"
+      },
+      {
+        "external": true,
+        "style": "success",
+        "title": "W3School",
+        "url": "https://www.w3schools.com/"
+      },
+      {
+        "external": true,
+        "style": "warning",
+        "title": "CSS Tricks",
+        "url": "https://css-tricks.com/"
+      },
+      {
+        "menu": [
+          {
+            "external": true,
+            "title": "regex tester",
+            "url": "https://regex101.com/"
+          },
+          {
+            "external": true,
+            "title": "Paletton",
+            "url": "http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF"
+          },
+          {
+            "external": true,
+            "title": "Google Font",
+            "url": "https://fonts.google.com/"
+          },
+          {
+            "external": true,
+            "title": "Flexbox Froggy",
+            "url": "http://flexboxfroggy.com/"
+          },
+          {
+            "external": true,
+            "title": "MailChimp",
+            "url": "https://login.mailchimp.com/?referrer=%2F&wcookie=e19d3ff032d851fd6c1a"
+          },
+          {
+            "external": true,
+            "title": "Animate.css",
+            "url": "https://daneden.github.io/animate.css/"
+          },
+          {
+            "external": true,
+            "title": "Bootstrap",
+            "url": "https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price"
+          },
+          {
+            "external": true,
+            "title": "JavaScript Key",
+            "url": "https://pengyongxin123.github.io/"
+          },
+          {
+            "title": "Unsplash",
+            "url": "https://unsplash.com/"
+          }
+        ],
+        "style": "light",
+        "title": "Resource"
+      }
+    ],
+    "title": "CS Learning"
+  },
+  {
+    "buttons": [
+      {
+        "external": true,
+        "style": "success",
+        "title": "Ground Shuttle",
+        "url": "https://groundshuttle.com/Home"
+      },
+      {
+        "external": true,
+        "style": "warning",
+        "title": "EZ Tag",
+        "url": "https://www.hctra.org/AccountInformation"
+      },
+      {
+        "style": "primary",
+        "title": "SuddenLink",
+        "url": "https://authorize.suddenlink.net/saml/module.php/authSynacor/login.php?AuthState=_fba0988971ea27c8e1ace1e3f9a195f66b5118e298%3Ahttps%3A%2F%2Fauthorize.suddenlink.net%2Fsaml%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Daccount.suddenlink.net%26cookieTime%3D1534534101%26allowCreate%3D0"
+      }
+    ],
+    "title": "Other Often Use"
+  }
+]
